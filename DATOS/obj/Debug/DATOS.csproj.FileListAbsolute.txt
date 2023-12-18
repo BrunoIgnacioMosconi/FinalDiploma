@@ -1,0 +1,129 @@
+C:\Users\Santiago\Desktop\FINAL2019\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\Santiago\Desktop\FINAL2019\DATOS\bin\Debug\DATOS.dll
+C:\Users\Santiago\Desktop\FINAL2019\DATOS\bin\Debug\DATOS.pdb
+C:\Users\Santiago\Desktop\FINAL2019\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\Santiago\Desktop\FINAL2019\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Santiago\Desktop\FINAL2019\DATOS\bin\Debug\MODELO.dll
+C:\Users\Santiago\Desktop\FINAL2019\DATOS\bin\Debug\MODELO.pdb
+C:\Users\Santiago\Desktop\FINAL2019\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\Santiago\Desktop\FINAL2019\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Santiago\Desktop\FINAL2019\DATOS\obj\Debug\DATOS.dll
+C:\Users\Santiago\Desktop\FINAL2019\DATOS\obj\Debug\DATOS.pdb
+C:\Users\Santiago\Desktop\FINAL2019\DATOS\bin\Debug\MODELO.dll.config
+C:\Users\Santiago\Desktop\FINAL2019\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\Santiago\Desktop\FINAL2019\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\FINAL2019\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\DATOS\bin\Debug\DATOS.dll
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\DATOS\bin\Debug\DATOS.pdb
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\DATOS\bin\Debug\MODELO.dll
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\DATOS\bin\Debug\MODELO.pdb
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\DATOS\bin\Debug\MODELO.dll.config
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\DATOS\obj\Debug\DATOS.dll
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\DATOS\obj\Debug\DATOS.pdb
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\DATOS\obj\Debug\DATOS.Migrations.asdd.resources
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\DATOS\obj\Debug\DATOS.csproj.GenerateResource.cache
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\DATOS\obj\Debug\DATOS.Migrations.asdsd.resources
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\DATOS\bin\Debug\DATOS.dll
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\DATOS\bin\Debug\DATOS.pdb
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\DATOS\bin\Debug\MODELO.dll
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\DATOS\bin\Debug\MODELO.pdb
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\DATOS\bin\Debug\MODELO.dll.config
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\DATOS\obj\Debug\DATOS.dll
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\DATOS\obj\Debug\DATOS.pdb
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\DATOS\obj\Debug\DATOS.Migrations.adasd.resources
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\DATOS\obj\Debug\DATOS.csproj.GenerateResource.cache
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\DATOS\obj\Debug\DATOS.Migrations.SSD.resources
+C:\Users\Santiago\Desktop\FINAL2019\DATOS\obj\Debug\DATOS.csproj.GenerateResource.cache
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\DATOS\bin\Debug\DATOS.dll
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\DATOS\bin\Debug\DATOS.pdb
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\DATOS\bin\Debug\MODELO.dll
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\DATOS\bin\Debug\MODELO.pdb
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\DATOS\bin\Debug\MODELO.dll.config
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\DATOS\obj\Debug\DATOS.Migrations.adasd.resources
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\DATOS\obj\Debug\DATOS.csproj.GenerateResource.cache
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\DATOS\obj\Debug\DATOS.dll
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\DATOS\obj\Debug\DATOS.pdb
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\DATOS\obj\Debug\DATOS.Migrations.asdasd.resources
+C:\Users\santi\Desktop\FINAL2019\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\santi\Desktop\FINAL2019\DATOS\bin\Debug\DATOS.dll
+C:\Users\santi\Desktop\FINAL2019\DATOS\bin\Debug\DATOS.pdb
+C:\Users\santi\Desktop\FINAL2019\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\santi\Desktop\FINAL2019\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\santi\Desktop\FINAL2019\DATOS\bin\Debug\MODELO.dll
+C:\Users\santi\Desktop\FINAL2019\DATOS\bin\Debug\MODELO.pdb
+C:\Users\santi\Desktop\FINAL2019\DATOS\bin\Debug\MODELO.dll.config
+C:\Users\santi\Desktop\FINAL2019\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\santi\Desktop\FINAL2019\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\santi\Desktop\FINAL2019\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\santi\Desktop\FINAL2019\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\santi\Desktop\FINAL2019\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\santi\Desktop\FINAL2019\DATOS\obj\Debug\DATOS.dll
+C:\Users\santi\Desktop\FINAL2019\DATOS\obj\Debug\DATOS.pdb
+C:\Users\santi\Desktop\FINAL2019\DATOS\obj\Debug\DATOS.Migrations.asd.resources
+C:\Users\santi\Desktop\FINAL2019\DATOS\obj\Debug\DATOS.csproj.GenerateResource.cache
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\DATOS\bin\Debug\DATOS.dll
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\DATOS\bin\Debug\DATOS.pdb
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\DATOS\bin\Debug\MODELO.dll
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\DATOS\bin\Debug\MODELO.pdb
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\DATOS\bin\Debug\MODELO.dll.config
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\DATOS\obj\Debug\DATOS.dll
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\DATOS\obj\Debug\DATOS.pdb
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\DATOS\obj\Debug\DATOS.Migrations._as.resources
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\DATOS\obj\Debug\DATOS.csproj.GenerateResource.cache
+C:\Users\Santiago\Desktop\FINAL2019\DATOS\obj\Debug\DATOS.Migrations._as.resources
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\DATOS\bin\Debug\DATOS.dll
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\DATOS\bin\Debug\DATOS.pdb
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\DATOS\bin\Debug\MODELO.dll
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\DATOS\bin\Debug\MODELO.pdb
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\DATOS\obj\Debug\DATOS.csprojResolveAssemblyReference.cache
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\DATOS\obj\Debug\DATOS.dll
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\DATOS\obj\Debug\DATOS.pdb
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\DATOS\bin\Debug\DATOS.dll
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\DATOS\bin\Debug\DATOS.pdb
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\DATOS\bin\Debug\MODELO.dll
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\DATOS\bin\Debug\MODELO.pdb
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\DATOS\obj\Debug\DATOS.csprojResolveAssemblyReference.cache
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\DATOS\obj\Debug\DATOS.dll
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\DATOS\obj\Debug\DATOS.pdb

@@ -1,0 +1,136 @@
+C:\Users\Santiago\Desktop\FINAL2019\CONTROLADORA\bin\Debug\CONTROLADORA.dll.config
+C:\Users\Santiago\Desktop\FINAL2019\CONTROLADORA\bin\Debug\CONTROLADORA.dll
+C:\Users\Santiago\Desktop\FINAL2019\CONTROLADORA\bin\Debug\CONTROLADORA.pdb
+C:\Users\Santiago\Desktop\FINAL2019\CONTROLADORA\bin\Debug\DATOS.dll
+C:\Users\Santiago\Desktop\FINAL2019\CONTROLADORA\bin\Debug\EntityFramework.dll
+C:\Users\Santiago\Desktop\FINAL2019\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Santiago\Desktop\FINAL2019\CONTROLADORA\bin\Debug\MODELO.dll
+C:\Users\Santiago\Desktop\FINAL2019\CONTROLADORA\bin\Debug\DATOS.pdb
+C:\Users\Santiago\Desktop\FINAL2019\CONTROLADORA\bin\Debug\MODELO.pdb
+C:\Users\Santiago\Desktop\FINAL2019\CONTROLADORA\bin\Debug\EntityFramework.xml
+C:\Users\Santiago\Desktop\FINAL2019\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Santiago\Desktop\FINAL2019\CONTROLADORA\obj\Debug\CONTROLADORA.dll
+C:\Users\Santiago\Desktop\FINAL2019\CONTROLADORA\obj\Debug\CONTROLADORA.pdb
+C:\Users\Santiago\Desktop\FINAL2019\CONTROLADORA\bin\Debug\DATOS.dll.config
+C:\Users\Santiago\Desktop\FINAL2019\CONTROLADORA\bin\Debug\MODELO.dll.config
+C:\Users\Santiago\Desktop\FINAL2019\CONTROLADORA\obj\Debug\CONTROLADORA.csprojAssemblyReference.cache
+C:\Users\Santiago\Desktop\FINAL2019\CONTROLADORA\obj\Debug\CONTROLADORA.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\FINAL2019\CONTROLADORA\obj\Debug\CONTROLADORA.csproj.CopyComplete
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\CONTROLADORA\bin\Debug\CONTROLADORA.dll.config
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\CONTROLADORA\bin\Debug\CONTROLADORA.dll
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\CONTROLADORA\bin\Debug\CONTROLADORA.pdb
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\CONTROLADORA\bin\Debug\DATOS.dll
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\CONTROLADORA\bin\Debug\EntityFramework.dll
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\CONTROLADORA\bin\Debug\MODELO.dll
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\CONTROLADORA\bin\Debug\DATOS.pdb
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\CONTROLADORA\bin\Debug\DATOS.dll.config
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\CONTROLADORA\bin\Debug\MODELO.pdb
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\CONTROLADORA\bin\Debug\MODELO.dll.config
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\CONTROLADORA\bin\Debug\EntityFramework.xml
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\CONTROLADORA\obj\Debug\CONTROLADORA.csprojAssemblyReference.cache
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\CONTROLADORA\obj\Debug\CONTROLADORA.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\CONTROLADORA\obj\Debug\CONTROLADORA.csproj.CopyComplete
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\CONTROLADORA\obj\Debug\CONTROLADORA.dll
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\CONTROLADORA\obj\Debug\CONTROLADORA.pdb
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\CONTROLADORA\bin\Debug\CONTROLADORA.dll.config
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\CONTROLADORA\bin\Debug\CONTROLADORA.dll
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\CONTROLADORA\bin\Debug\CONTROLADORA.pdb
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\CONTROLADORA\bin\Debug\DATOS.dll
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\CONTROLADORA\bin\Debug\EntityFramework.dll
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\CONTROLADORA\bin\Debug\MODELO.dll
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\CONTROLADORA\bin\Debug\DATOS.pdb
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\CONTROLADORA\bin\Debug\DATOS.dll.config
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\CONTROLADORA\bin\Debug\MODELO.pdb
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\CONTROLADORA\bin\Debug\MODELO.dll.config
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\CONTROLADORA\bin\Debug\EntityFramework.xml
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\CONTROLADORA\obj\Debug\CONTROLADORA.csprojAssemblyReference.cache
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\CONTROLADORA\obj\Debug\CONTROLADORA.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\CONTROLADORA\obj\Debug\CONTROLADORA.csproj.CopyComplete
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\CONTROLADORA\obj\Debug\CONTROLADORA.dll
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\CONTROLADORA\obj\Debug\CONTROLADORA.pdb
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\CONTROLADORA\bin\Debug\CONTROLADORA.dll.config
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\CONTROLADORA\bin\Debug\CONTROLADORA.dll
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\CONTROLADORA\bin\Debug\CONTROLADORA.pdb
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\CONTROLADORA\bin\Debug\DATOS.dll
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\CONTROLADORA\bin\Debug\EntityFramework.dll
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\CONTROLADORA\bin\Debug\MODELO.dll
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\CONTROLADORA\bin\Debug\DATOS.pdb
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\CONTROLADORA\bin\Debug\DATOS.dll.config
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\CONTROLADORA\bin\Debug\MODELO.pdb
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\CONTROLADORA\bin\Debug\MODELO.dll.config
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\CONTROLADORA\bin\Debug\EntityFramework.xml
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\CONTROLADORA\obj\Debug\CONTROLADORA.csprojAssemblyReference.cache
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\CONTROLADORA\obj\Debug\CONTROLADORA.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\CONTROLADORA\obj\Debug\CONTROLADORA.csproj.CopyComplete
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\CONTROLADORA\obj\Debug\CONTROLADORA.dll
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\CONTROLADORA\obj\Debug\CONTROLADORA.pdb
+C:\Users\santi\Desktop\FINAL2019\CONTROLADORA\bin\Debug\CONTROLADORA.dll.config
+C:\Users\santi\Desktop\FINAL2019\CONTROLADORA\bin\Debug\CONTROLADORA.dll
+C:\Users\santi\Desktop\FINAL2019\CONTROLADORA\bin\Debug\CONTROLADORA.pdb
+C:\Users\santi\Desktop\FINAL2019\CONTROLADORA\bin\Debug\DATOS.dll
+C:\Users\santi\Desktop\FINAL2019\CONTROLADORA\bin\Debug\EntityFramework.dll
+C:\Users\santi\Desktop\FINAL2019\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\santi\Desktop\FINAL2019\CONTROLADORA\bin\Debug\MODELO.dll
+C:\Users\santi\Desktop\FINAL2019\CONTROLADORA\bin\Debug\DATOS.pdb
+C:\Users\santi\Desktop\FINAL2019\CONTROLADORA\bin\Debug\DATOS.dll.config
+C:\Users\santi\Desktop\FINAL2019\CONTROLADORA\bin\Debug\MODELO.pdb
+C:\Users\santi\Desktop\FINAL2019\CONTROLADORA\bin\Debug\MODELO.dll.config
+C:\Users\santi\Desktop\FINAL2019\CONTROLADORA\bin\Debug\EntityFramework.xml
+C:\Users\santi\Desktop\FINAL2019\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\santi\Desktop\FINAL2019\CONTROLADORA\obj\Debug\CONTROLADORA.csprojAssemblyReference.cache
+C:\Users\santi\Desktop\FINAL2019\CONTROLADORA\obj\Debug\CONTROLADORA.csproj.CoreCompileInputs.cache
+C:\Users\santi\Desktop\FINAL2019\CONTROLADORA\obj\Debug\CONTROLADORA.csproj.CopyComplete
+C:\Users\santi\Desktop\FINAL2019\CONTROLADORA\obj\Debug\CONTROLADORA.dll
+C:\Users\santi\Desktop\FINAL2019\CONTROLADORA\obj\Debug\CONTROLADORA.pdb
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\CONTROLADORA\bin\Debug\CONTROLADORA.dll.config
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\CONTROLADORA\bin\Debug\CONTROLADORA.dll
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\CONTROLADORA\bin\Debug\CONTROLADORA.pdb
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\CONTROLADORA\bin\Debug\DATOS.dll
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\CONTROLADORA\bin\Debug\EntityFramework.dll
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\CONTROLADORA\bin\Debug\MODELO.dll
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\CONTROLADORA\bin\Debug\DATOS.pdb
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\CONTROLADORA\bin\Debug\DATOS.dll.config
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\CONTROLADORA\bin\Debug\MODELO.pdb
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\CONTROLADORA\bin\Debug\MODELO.dll.config
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\CONTROLADORA\bin\Debug\EntityFramework.xml
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\CONTROLADORA\obj\Debug\CONTROLADORA.csprojAssemblyReference.cache
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\CONTROLADORA\obj\Debug\CONTROLADORA.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\CONTROLADORA\obj\Debug\CONTROLADORA.csproj.CopyComplete
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\CONTROLADORA\obj\Debug\CONTROLADORA.dll
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\CONTROLADORA\obj\Debug\CONTROLADORA.pdb
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\CONTROLADORA\obj\Debug\CONTROLADORA.csprojResolveAssemblyReference.cache
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\CONTROLADORA\obj\Debug\CONTROLADORA.dll
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\CONTROLADORA\obj\Debug\CONTROLADORA.pdb
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\CONTROLADORA\bin\Debug\CONTROLADORA.dll.config
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\CONTROLADORA\bin\Debug\CONTROLADORA.dll
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\CONTROLADORA\bin\Debug\CONTROLADORA.pdb
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\CONTROLADORA\bin\Debug\DATOS.dll
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\CONTROLADORA\bin\Debug\EntityFramework.dll
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\CONTROLADORA\bin\Debug\MODELO.dll
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\CONTROLADORA\bin\Debug\DATOS.pdb
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\CONTROLADORA\bin\Debug\MODELO.pdb
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\CONTROLADORA\bin\Debug\EntityFramework.xml
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\CONTROLADORA\bin\Debug\CONTROLADORA.dll.config
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\CONTROLADORA\bin\Debug\CONTROLADORA.dll
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\CONTROLADORA\bin\Debug\CONTROLADORA.pdb
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\CONTROLADORA\bin\Debug\DATOS.dll
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\CONTROLADORA\bin\Debug\EntityFramework.dll
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\CONTROLADORA\bin\Debug\MODELO.dll
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\CONTROLADORA\bin\Debug\DATOS.pdb
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\CONTROLADORA\bin\Debug\MODELO.pdb
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\CONTROLADORA\bin\Debug\EntityFramework.xml
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\CONTROLADORA\obj\Debug\CONTROLADORA.csprojResolveAssemblyReference.cache
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\CONTROLADORA\obj\Debug\CONTROLADORA.dll
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\CONTROLADORA\obj\Debug\CONTROLADORA.pdb

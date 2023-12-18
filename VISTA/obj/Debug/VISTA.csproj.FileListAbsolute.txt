@@ -1,0 +1,399 @@
+C:\Users\Santiago\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.csprojAssemblyReference.cache
+C:\Users\Santiago\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.Properties.Resources.resources
+C:\Users\Santiago\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.csproj.GenerateResource.cache
+C:\Users\Santiago\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\FINAL2019\VISTA\bin\Debug\VISTA.exe.config
+C:\Users\Santiago\Desktop\FINAL2019\VISTA\bin\Debug\VISTA.exe
+C:\Users\Santiago\Desktop\FINAL2019\VISTA\bin\Debug\VISTA.pdb
+C:\Users\Santiago\Desktop\FINAL2019\VISTA\bin\Debug\CONTROLADORA.dll
+C:\Users\Santiago\Desktop\FINAL2019\VISTA\bin\Debug\EntityFramework.dll
+C:\Users\Santiago\Desktop\FINAL2019\VISTA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Santiago\Desktop\FINAL2019\VISTA\bin\Debug\MODELO.dll
+C:\Users\Santiago\Desktop\FINAL2019\VISTA\bin\Debug\DATOS.dll
+C:\Users\Santiago\Desktop\FINAL2019\VISTA\bin\Debug\CONTROLADORA.pdb
+C:\Users\Santiago\Desktop\FINAL2019\VISTA\bin\Debug\CONTROLADORA.dll.config
+C:\Users\Santiago\Desktop\FINAL2019\VISTA\bin\Debug\MODELO.pdb
+C:\Users\Santiago\Desktop\FINAL2019\VISTA\bin\Debug\MODELO.dll.config
+C:\Users\Santiago\Desktop\FINAL2019\VISTA\bin\Debug\EntityFramework.xml
+C:\Users\Santiago\Desktop\FINAL2019\VISTA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Santiago\Desktop\FINAL2019\VISTA\bin\Debug\DATOS.pdb
+C:\Users\Santiago\Desktop\FINAL2019\VISTA\bin\Debug\DATOS.dll.config
+C:\Users\Santiago\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.csproj.CopyComplete
+C:\Users\Santiago\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.exe
+C:\Users\Santiago\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.pdb
+C:\Users\Santiago\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.MODELO_DE_SEGURIDAD.frmCAMBIAR_CLAVE.resources
+C:\Users\Santiago\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.frmCLIENTE.resources
+C:\Users\Santiago\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.frmCLIENTES.resources
+C:\Users\Santiago\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.frmEMPLEADO.resources
+C:\Users\Santiago\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.frmEMPLEADOS.resources
+C:\Users\Santiago\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.frmGRUPO.resources
+C:\Users\Santiago\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.frmGRUPOS.resources
+C:\Users\Santiago\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.frmLOGIN.resources
+C:\Users\Santiago\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.frmMENU_PRINCIPAL.resources
+C:\Users\Santiago\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.frmMOSTRAR_REMITOS.resources
+C:\Users\Santiago\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.MODELO_DE_SEGURIDAD.frmOLVIDE_CLAVE.resources
+C:\Users\Santiago\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.frmORDENDECOMPRA.resources
+C:\Users\Santiago\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.frmORDENESDECOMPRA.resources
+C:\Users\Santiago\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.frmPRODUCTO.resources
+C:\Users\Santiago\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.frmPRODUCTOS.resources
+C:\Users\Santiago\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.frmPROVEEDOR.resources
+C:\Users\Santiago\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.frmPROVEEDORES.resources
+C:\Users\Santiago\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.frmREMITO.resources
+C:\Users\Santiago\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.frmSTOCK.resources
+C:\Users\Santiago\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.frmUSUARIO.resources
+C:\Users\Santiago\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.frmUSUARIOS.resources
+C:\Users\Santiago\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.frmVENTA.resources
+C:\Users\Santiago\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.frmVENTAS.resources
+C:\Users\Santiago\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.frmAUDITORIA_LOGIN.resources
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\VISTA\bin\Debug\VISTA.exe.config
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\VISTA\bin\Debug\VISTA.exe
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\VISTA\bin\Debug\VISTA.pdb
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\VISTA\bin\Debug\CONTROLADORA.dll
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\VISTA\bin\Debug\EntityFramework.dll
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\VISTA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\VISTA\bin\Debug\MODELO.dll
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\VISTA\bin\Debug\DATOS.dll
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\VISTA\bin\Debug\CONTROLADORA.pdb
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\VISTA\bin\Debug\CONTROLADORA.dll.config
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\VISTA\bin\Debug\MODELO.pdb
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\VISTA\bin\Debug\MODELO.dll.config
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\VISTA\bin\Debug\EntityFramework.xml
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\VISTA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\VISTA\bin\Debug\DATOS.pdb
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\VISTA\bin\Debug\DATOS.dll.config
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\VISTA\obj\Debug\VISTA.csprojAssemblyReference.cache
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\VISTA\obj\Debug\VISTA.frmAUDITORIA_LOGIN.resources
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\VISTA\obj\Debug\VISTA.MODELO_DE_SEGURIDAD.frmCAMBIAR_CLAVE.resources
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\VISTA\obj\Debug\VISTA.frmCLIENTE.resources
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\VISTA\obj\Debug\VISTA.frmCLIENTES.resources
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\VISTA\obj\Debug\VISTA.frmEMPLEADO.resources
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\VISTA\obj\Debug\VISTA.frmEMPLEADOS.resources
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\VISTA\obj\Debug\VISTA.frmGRUPO.resources
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\VISTA\obj\Debug\VISTA.frmGRUPOS.resources
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\VISTA\obj\Debug\VISTA.frmLOGIN.resources
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\VISTA\obj\Debug\VISTA.frmMENU_PRINCIPAL.resources
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\VISTA\obj\Debug\VISTA.frmMOSTRAR_REMITOS.resources
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\VISTA\obj\Debug\VISTA.MODELO_DE_SEGURIDAD.frmOLVIDE_CLAVE.resources
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\VISTA\obj\Debug\VISTA.frmORDENDECOMPRA.resources
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\VISTA\obj\Debug\VISTA.frmORDENESDECOMPRA.resources
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\VISTA\obj\Debug\VISTA.frmPRODUCTO.resources
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\VISTA\obj\Debug\VISTA.frmPRODUCTOS.resources
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\VISTA\obj\Debug\VISTA.frmPROVEEDOR.resources
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\VISTA\obj\Debug\VISTA.frmPROVEEDORES.resources
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\VISTA\obj\Debug\VISTA.frmREMITO.resources
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\VISTA\obj\Debug\VISTA.frmSTOCK.resources
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\VISTA\obj\Debug\VISTA.frmUSUARIO.resources
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\VISTA\obj\Debug\VISTA.frmUSUARIOS.resources
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\VISTA\obj\Debug\VISTA.frmVENTA.resources
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\VISTA\obj\Debug\VISTA.frmVENTAS.resources
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\VISTA\obj\Debug\VISTA.Properties.Resources.resources
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\VISTA\obj\Debug\VISTA.csproj.GenerateResource.cache
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\VISTA\obj\Debug\VISTA.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\VISTA\obj\Debug\VISTA.csproj.CopyComplete
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\VISTA\obj\Debug\VISTA.exe
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\VISTA\obj\Debug\VISTA.pdb
+C:\Users\Santiago\Desktop\COSAS\FINAL2019\VISTA\obj\Debug\VISTA.frmPAGO.resources
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\VISTA\bin\Debug\VISTA.exe.config
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\VISTA\bin\Debug\VISTA.exe
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\VISTA\bin\Debug\VISTA.pdb
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\VISTA\bin\Debug\CONTROLADORA.dll
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\VISTA\bin\Debug\EntityFramework.dll
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\VISTA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\VISTA\bin\Debug\MODELO.dll
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\VISTA\bin\Debug\DATOS.dll
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\VISTA\bin\Debug\CONTROLADORA.pdb
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\VISTA\bin\Debug\CONTROLADORA.dll.config
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\VISTA\bin\Debug\MODELO.pdb
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\VISTA\bin\Debug\MODELO.dll.config
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\VISTA\bin\Debug\EntityFramework.xml
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\VISTA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\VISTA\bin\Debug\DATOS.pdb
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\VISTA\bin\Debug\DATOS.dll.config
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\VISTA\obj\Debug\VISTA.csprojAssemblyReference.cache
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\VISTA\obj\Debug\VISTA.frmAUDITORIA_LOGIN.resources
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\VISTA\obj\Debug\VISTA.MODELO_DE_SEGURIDAD.frmCAMBIAR_CLAVE.resources
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\VISTA\obj\Debug\VISTA.frmCLIENTE.resources
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\VISTA\obj\Debug\VISTA.frmCLIENTES.resources
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\VISTA\obj\Debug\VISTA.frmEMPLEADO.resources
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\VISTA\obj\Debug\VISTA.frmEMPLEADOS.resources
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\VISTA\obj\Debug\VISTA.frmGRUPO.resources
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\VISTA\obj\Debug\VISTA.frmGRUPOS.resources
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\VISTA\obj\Debug\VISTA.frmLOGIN.resources
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\VISTA\obj\Debug\VISTA.frmMENU_PRINCIPAL.resources
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\VISTA\obj\Debug\VISTA.frmMOSTRAR_REMITOS.resources
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\VISTA\obj\Debug\VISTA.MODELO_DE_SEGURIDAD.frmOLVIDE_CLAVE.resources
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\VISTA\obj\Debug\VISTA.frmORDENDECOMPRA.resources
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\VISTA\obj\Debug\VISTA.frmORDENESDECOMPRA.resources
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\VISTA\obj\Debug\VISTA.frmPAGO.resources
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\VISTA\obj\Debug\VISTA.frmPRODUCTO.resources
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\VISTA\obj\Debug\VISTA.frmPRODUCTOS.resources
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\VISTA\obj\Debug\VISTA.frmPROVEEDOR.resources
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\VISTA\obj\Debug\VISTA.frmPROVEEDORES.resources
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\VISTA\obj\Debug\VISTA.frmREMITO.resources
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\VISTA\obj\Debug\VISTA.frmSTOCK.resources
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\VISTA\obj\Debug\VISTA.frmUSUARIO.resources
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\VISTA\obj\Debug\VISTA.frmUSUARIOS.resources
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\VISTA\obj\Debug\VISTA.frmVENTA.resources
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\VISTA\obj\Debug\VISTA.frmVENTAS.resources
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\VISTA\obj\Debug\VISTA.Properties.Resources.resources
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\VISTA\obj\Debug\VISTA.csproj.GenerateResource.cache
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\VISTA\obj\Debug\VISTA.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\VISTA\obj\Debug\VISTA.csproj.CopyComplete
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\VISTA\obj\Debug\VISTA.exe
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\VISTA\obj\Debug\VISTA.pdb
+C:\Users\Santiago\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.frmPAGO.resources
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\VISTA\obj\Debug\VISTA.frmFACTURA.resources
+C:\Users\Santiago\Desktop\BASE DE DATOS TRABAJO y TRABAJO\FINAL2019\VISTA\obj\Debug\VISTA.frmBACKUP.resources
+C:\Users\Santiago\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.frmBACKUP.resources
+C:\Users\Santiago\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.frmFACTURA.resources
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\VISTA\bin\Debug\VISTA.exe.config
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\VISTA\bin\Debug\VISTA.exe
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\VISTA\bin\Debug\VISTA.pdb
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\VISTA\bin\Debug\CONTROLADORA.dll
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\VISTA\bin\Debug\EntityFramework.dll
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\VISTA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\VISTA\bin\Debug\MODELO.dll
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\VISTA\bin\Debug\DATOS.dll
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\VISTA\bin\Debug\CONTROLADORA.pdb
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\VISTA\bin\Debug\CONTROLADORA.dll.config
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\VISTA\bin\Debug\MODELO.pdb
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\VISTA\bin\Debug\MODELO.dll.config
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\VISTA\bin\Debug\EntityFramework.xml
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\VISTA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\VISTA\bin\Debug\DATOS.pdb
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\VISTA\bin\Debug\DATOS.dll.config
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\VISTA\obj\Debug\VISTA.csprojAssemblyReference.cache
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\VISTA\obj\Debug\VISTA.frmAUDITORIA_LOGIN.resources
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\VISTA\obj\Debug\VISTA.frmBACKUP.resources
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\VISTA\obj\Debug\VISTA.MODELO_DE_SEGURIDAD.frmCAMBIAR_CLAVE.resources
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\VISTA\obj\Debug\VISTA.frmCLIENTE.resources
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\VISTA\obj\Debug\VISTA.frmCLIENTES.resources
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\VISTA\obj\Debug\VISTA.frmEMPLEADO.resources
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\VISTA\obj\Debug\VISTA.frmEMPLEADOS.resources
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\VISTA\obj\Debug\VISTA.frmFACTURA.resources
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\VISTA\obj\Debug\VISTA.frmGRAFICO.resources
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\VISTA\obj\Debug\VISTA.frmGRUPO.resources
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\VISTA\obj\Debug\VISTA.frmGRUPOS.resources
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\VISTA\obj\Debug\VISTA.frmLOGIN.resources
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\VISTA\obj\Debug\VISTA.frmMENU_PRINCIPAL.resources
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\VISTA\obj\Debug\VISTA.frmMOSTRAR_REMITOS.resources
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\VISTA\obj\Debug\VISTA.MODELO_DE_SEGURIDAD.frmOLVIDE_CLAVE.resources
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\VISTA\obj\Debug\VISTA.frmORDENDECOMPRA.resources
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\VISTA\obj\Debug\VISTA.frmORDENESDECOMPRA.resources
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\VISTA\obj\Debug\VISTA.frmPAGO.resources
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\VISTA\obj\Debug\VISTA.frmPRODUCTO.resources
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\VISTA\obj\Debug\VISTA.frmPRODUCTOS.resources
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\VISTA\obj\Debug\VISTA.frmPROVEEDOR.resources
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\VISTA\obj\Debug\VISTA.frmPROVEEDORES.resources
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\VISTA\obj\Debug\VISTA.frmREMITO.resources
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\VISTA\obj\Debug\VISTA.frmSTOCK.resources
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\VISTA\obj\Debug\VISTA.frmUSUARIO.resources
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\VISTA\obj\Debug\VISTA.frmUSUARIOS.resources
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\VISTA\obj\Debug\VISTA.frmVENTA.resources
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\VISTA\obj\Debug\VISTA.frmVENTAS.resources
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\VISTA\obj\Debug\VISTA.Properties.Resources.resources
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\VISTA\obj\Debug\VISTA.csproj.GenerateResource.cache
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\VISTA\obj\Debug\VISTA.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\VISTA\obj\Debug\VISTA.csproj.CopyComplete
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\VISTA\obj\Debug\VISTA.exe
+C:\Users\Santiago\Desktop\PROGRAMACION\FINAL2019\VISTA\obj\Debug\VISTA.pdb
+C:\Users\santi\Desktop\FINAL2019\VISTA\bin\Debug\VISTA.exe.config
+C:\Users\santi\Desktop\FINAL2019\VISTA\bin\Debug\VISTA.exe
+C:\Users\santi\Desktop\FINAL2019\VISTA\bin\Debug\VISTA.pdb
+C:\Users\santi\Desktop\FINAL2019\VISTA\bin\Debug\CONTROLADORA.dll
+C:\Users\santi\Desktop\FINAL2019\VISTA\bin\Debug\EntityFramework.dll
+C:\Users\santi\Desktop\FINAL2019\VISTA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\santi\Desktop\FINAL2019\VISTA\bin\Debug\MODELO.dll
+C:\Users\santi\Desktop\FINAL2019\VISTA\bin\Debug\DATOS.dll
+C:\Users\santi\Desktop\FINAL2019\VISTA\bin\Debug\CONTROLADORA.pdb
+C:\Users\santi\Desktop\FINAL2019\VISTA\bin\Debug\CONTROLADORA.dll.config
+C:\Users\santi\Desktop\FINAL2019\VISTA\bin\Debug\MODELO.pdb
+C:\Users\santi\Desktop\FINAL2019\VISTA\bin\Debug\MODELO.dll.config
+C:\Users\santi\Desktop\FINAL2019\VISTA\bin\Debug\EntityFramework.xml
+C:\Users\santi\Desktop\FINAL2019\VISTA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\santi\Desktop\FINAL2019\VISTA\bin\Debug\DATOS.pdb
+C:\Users\santi\Desktop\FINAL2019\VISTA\bin\Debug\DATOS.dll.config
+C:\Users\santi\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.csprojAssemblyReference.cache
+C:\Users\santi\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.frmAUDITORIA_LOGIN.resources
+C:\Users\santi\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.frmBACKUP.resources
+C:\Users\santi\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.MODELO_DE_SEGURIDAD.frmCAMBIAR_CLAVE.resources
+C:\Users\santi\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.frmCLIENTE.resources
+C:\Users\santi\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.frmCLIENTES.resources
+C:\Users\santi\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.frmEMPLEADO.resources
+C:\Users\santi\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.frmEMPLEADOS.resources
+C:\Users\santi\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.frmFACTURA.resources
+C:\Users\santi\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.frmGRAFICO.resources
+C:\Users\santi\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.frmGRUPO.resources
+C:\Users\santi\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.frmGRUPOS.resources
+C:\Users\santi\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.frmLOGIN.resources
+C:\Users\santi\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.frmMENU_PRINCIPAL.resources
+C:\Users\santi\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.frmMOSTRAR_REMITOS.resources
+C:\Users\santi\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.MODELO_DE_SEGURIDAD.frmOLVIDE_CLAVE.resources
+C:\Users\santi\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.frmORDENDECOMPRA.resources
+C:\Users\santi\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.frmORDENESDECOMPRA.resources
+C:\Users\santi\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.frmPAGO.resources
+C:\Users\santi\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.frmPRODUCTO.resources
+C:\Users\santi\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.frmPRODUCTOS.resources
+C:\Users\santi\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.frmPROVEEDOR.resources
+C:\Users\santi\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.frmPROVEEDORES.resources
+C:\Users\santi\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.frmREMITO.resources
+C:\Users\santi\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.frmSTOCK.resources
+C:\Users\santi\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.frmUSUARIO.resources
+C:\Users\santi\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.frmUSUARIOS.resources
+C:\Users\santi\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.frmVENTA.resources
+C:\Users\santi\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.frmVENTAS.resources
+C:\Users\santi\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.Properties.Resources.resources
+C:\Users\santi\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.csproj.GenerateResource.cache
+C:\Users\santi\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.csproj.CoreCompileInputs.cache
+C:\Users\santi\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.csproj.CopyComplete
+C:\Users\santi\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.exe
+C:\Users\santi\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.pdb
+C:\Users\santi\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.frmPLANILLA.resources
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\VISTA\bin\Debug\VISTA.exe.config
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\VISTA\bin\Debug\VISTA.exe
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\VISTA\bin\Debug\VISTA.pdb
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\VISTA\bin\Debug\CONTROLADORA.dll
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\VISTA\bin\Debug\EntityFramework.dll
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\VISTA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\VISTA\bin\Debug\MODELO.dll
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\VISTA\bin\Debug\DATOS.dll
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\VISTA\bin\Debug\CONTROLADORA.pdb
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\VISTA\bin\Debug\CONTROLADORA.dll.config
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\VISTA\bin\Debug\MODELO.pdb
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\VISTA\bin\Debug\MODELO.dll.config
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\VISTA\bin\Debug\EntityFramework.xml
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\VISTA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\VISTA\bin\Debug\DATOS.pdb
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\VISTA\bin\Debug\DATOS.dll.config
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\VISTA\obj\Debug\VISTA.csprojAssemblyReference.cache
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\VISTA\obj\Debug\VISTA.frmAUDITORIA_LOGIN.resources
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\VISTA\obj\Debug\VISTA.frmBACKUP.resources
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\VISTA\obj\Debug\VISTA.MODELO_DE_SEGURIDAD.frmCAMBIAR_CLAVE.resources
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\VISTA\obj\Debug\VISTA.frmCLIENTE.resources
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\VISTA\obj\Debug\VISTA.frmCLIENTES.resources
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\VISTA\obj\Debug\VISTA.frmEMPLEADO.resources
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\VISTA\obj\Debug\VISTA.frmEMPLEADOS.resources
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\VISTA\obj\Debug\VISTA.frmFACTURA.resources
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\VISTA\obj\Debug\VISTA.frmGRAFICO.resources
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\VISTA\obj\Debug\VISTA.frmGRUPO.resources
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\VISTA\obj\Debug\VISTA.frmGRUPOS.resources
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\VISTA\obj\Debug\VISTA.frmLOGIN.resources
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\VISTA\obj\Debug\VISTA.frmMENU_PRINCIPAL.resources
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\VISTA\obj\Debug\VISTA.frmMOSTRAR_REMITOS.resources
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\VISTA\obj\Debug\VISTA.MODELO_DE_SEGURIDAD.frmOLVIDE_CLAVE.resources
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\VISTA\obj\Debug\VISTA.frmORDENDECOMPRA.resources
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\VISTA\obj\Debug\VISTA.frmORDENESDECOMPRA.resources
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\VISTA\obj\Debug\VISTA.frmPAGO.resources
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\VISTA\obj\Debug\VISTA.frmPLANILLA.resources
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\VISTA\obj\Debug\VISTA.frmPRODUCTO.resources
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\VISTA\obj\Debug\VISTA.frmPRODUCTOS.resources
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\VISTA\obj\Debug\VISTA.frmPROVEEDOR.resources
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\VISTA\obj\Debug\VISTA.frmPROVEEDORES.resources
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\VISTA\obj\Debug\VISTA.frmREMITO.resources
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\VISTA\obj\Debug\VISTA.frmSTOCK.resources
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\VISTA\obj\Debug\VISTA.frmUSUARIO.resources
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\VISTA\obj\Debug\VISTA.frmUSUARIOS.resources
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\VISTA\obj\Debug\VISTA.frmVENTA.resources
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\VISTA\obj\Debug\VISTA.frmVENTAS.resources
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\VISTA\obj\Debug\VISTA.Properties.Resources.resources
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\VISTA\obj\Debug\VISTA.csproj.GenerateResource.cache
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\VISTA\obj\Debug\VISTA.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\VISTA\obj\Debug\VISTA.csproj.CopyComplete
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\VISTA\obj\Debug\VISTA.exe
+C:\Users\Santiago\Desktop\NUEVO\FINAL2019\VISTA\obj\Debug\VISTA.pdb
+C:\Users\Santiago\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.frmGRAFICO.resources
+C:\Users\Santiago\Desktop\FINAL2019\VISTA\obj\Debug\VISTA.frmPLANILLA.resources
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\VISTA\bin\Debug\VISTA.exe.config
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.exe
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.pdb
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.csprojResolveAssemblyReference.cache
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.frmAUDITORIA_LOGIN.resources
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.frmBACKUP.resources
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.MODELO_DE_SEGURIDAD.frmCAMBIAR_CLAVE.resources
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.frmCLIENTE.resources
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.frmCLIENTES.resources
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.frmEMPLEADO.resources
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.frmEMPLEADOS.resources
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.frmFACTURA.resources
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.frmGRAFICO.resources
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.frmGRUPO.resources
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.frmGRUPOS.resources
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.frmLOGIN.resources
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.frmMENU_PRINCIPAL.resources
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.frmMOSTRAR_REMITOS.resources
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.MODELO_DE_SEGURIDAD.frmOLVIDE_CLAVE.resources
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.frmORDENDECOMPRA.resources
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.frmORDENESDECOMPRA.resources
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.frmPAGO.resources
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.frmPLANILLA.resources
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.frmPRODUCTO.resources
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.frmPRODUCTOS.resources
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.frmPROVEEDOR.resources
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.frmPROVEEDORES.resources
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.frmREMITO.resources
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.frmSTOCK.resources
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.frmUSUARIO.resources
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.frmUSUARIOS.resources
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.frmVENTA.resources
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.frmVENTAS.resources
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.Properties.Resources.resources
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.csproj.GenerateResource.Cache
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\VISTA\bin\Debug\VISTA.exe
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\VISTA\bin\Debug\VISTA.pdb
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\VISTA\bin\Debug\CONTROLADORA.dll
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\VISTA\bin\Debug\EntityFramework.dll
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\VISTA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\VISTA\bin\Debug\MODELO.dll
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\VISTA\bin\Debug\DATOS.dll
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\VISTA\bin\Debug\CONTROLADORA.pdb
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\VISTA\bin\Debug\MODELO.pdb
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\VISTA\bin\Debug\EntityFramework.xml
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\VISTA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bruno\Desktop\final diplñoma a correr\FINAL ENTREGA\FINAL2019\VISTA\bin\Debug\DATOS.pdb
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\VISTA\bin\Debug\VISTA.exe.config
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.exe
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.pdb
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\VISTA\bin\Debug\VISTA.exe
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\VISTA\bin\Debug\VISTA.pdb
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\VISTA\bin\Debug\CONTROLADORA.dll
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\VISTA\bin\Debug\EntityFramework.dll
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\VISTA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\VISTA\bin\Debug\MODELO.dll
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\VISTA\bin\Debug\DATOS.dll
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\VISTA\bin\Debug\CONTROLADORA.pdb
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\VISTA\bin\Debug\MODELO.pdb
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\VISTA\bin\Debug\EntityFramework.xml
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\VISTA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\VISTA\bin\Debug\DATOS.pdb
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.csprojResolveAssemblyReference.cache
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.frmAUDITORIA_LOGIN.resources
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.frmBACKUP.resources
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.MODELO_DE_SEGURIDAD.frmCAMBIAR_CLAVE.resources
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.frmCLIENTE.resources
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.frmCLIENTES.resources
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.frmEMPLEADO.resources
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.frmEMPLEADOS.resources
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.frmFACTURA.resources
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.frmGRAFICO.resources
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.frmGRUPO.resources
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.frmGRUPOS.resources
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.frmLOGIN.resources
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.frmMENU_PRINCIPAL.resources
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.frmMOSTRAR_REMITOS.resources
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.MODELO_DE_SEGURIDAD.frmOLVIDE_CLAVE.resources
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.frmORDENDECOMPRA.resources
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.frmORDENESDECOMPRA.resources
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.frmPAGO.resources
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.frmPLANILLA.resources
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.frmPRODUCTO.resources
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.frmPRODUCTOS.resources
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.frmPROVEEDOR.resources
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.frmPROVEEDORES.resources
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.frmREMITO.resources
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.frmSTOCK.resources
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.frmUSUARIO.resources
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.frmUSUARIOS.resources
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.frmVENTA.resources
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.frmVENTAS.resources
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.Properties.Resources.resources
+C:\Users\bruno\Desktop\final diploma\FINAL ENTREGA\FINAL2019\VISTA\obj\Debug\VISTA.csproj.GenerateResource.Cache
